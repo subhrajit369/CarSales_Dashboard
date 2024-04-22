@@ -63,7 +63,7 @@ Document the dashboard's features, functionalities, and technical specifications
 Create user guides and tutorials to help stakeholders navigate and utilize the dashboard effectively.
 Conduct training sessions, if required, to familiarize users with the dashboard and its capabilities.
 
-##Data Cleaning:
+## Data Cleaning:
 ![Screenshot (55)](https://github.com/subhrajit369/DataVisualization/assets/167511151/b9cf8b9d-cbec-4dc4-8717-8a10308a83e1)
-##Dashboard View:
+## Dashboard View:
 ![Screenshot (52)](https://github.com/subhrajit369/DataVisualization/assets/167511151/ca1098b3-f6a8-4d3c-9d1d-31fa2cad6eaa)
